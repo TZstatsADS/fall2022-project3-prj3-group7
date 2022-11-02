@@ -5,5 +5,5 @@ We ultimately went with another solution, but we all evaluated this code and mod
 along with the other file in understanding how to parse image files, and encode them in multiple ways for the purpose of this project.
 
 "STATGR5243_Tensorflow_ImageParsing_pjl2144.ipynb" is our first attempt to parse and operate on image data from this dataset. 
-We rebuilt the mechanism for encoding images to see if we could get better performance or speed. This also served as some basic EDA,
-understanding better the structure of the underlying files/data.
+We rebuilt the mechanism for encoding images using tensorflow to see if we could get better performance or speed. This also served as some basic EDA,
+understanding better the structure of the underlying files/data. It did seem to be a better way of encoding the image data, a single command versus a loop.
