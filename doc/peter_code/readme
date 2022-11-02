@@ -1,0 +1,9 @@
+Peter Langer (uni: PJL2144) Code Contribution to Project 3, Group 7.
+
+"GR5243_NeuralNet_pjl2144.ipynb" is our first attempt at building a classification CNN to classify on the basis of dirty labels.
+We ultimately went with another solution, but we all evaluated this code and model architecture and it was useful,
+along with the other file in understanding how to parse image files, and encode them in multiple ways for the purpose of this project.
+
+"STATGR5243_Tensorflow_ImageParsing_pjl2144.ipynb" is our first attempt to parse and operate on image data from this dataset. 
+We rebuilt the mechanism for encoding images to see if we could get better performance or speed. This also served as some basic EDA,
+understanding better the structure of the underlying files/data.
